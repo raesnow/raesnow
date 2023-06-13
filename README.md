@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img alig src="https://github-readme-stats.vercel.app/api?username=raesnow&count_private=true&show_icons=true?theme=onedark" />
+</p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raesnow&count_private=true&show_icons=true?theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=raesnow&hide=HTML&layout=compact" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raesnow&hide=HTML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=raesnow&title=Repositories,Commits,Followers,Issues,PullRequest,Stars&theme=onedark&no-bg=true" />
+</p>
