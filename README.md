@@ -22,7 +22,3 @@ Here are some ideas to get you started:
 <p align="center">
   <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=raesnow&hide=HTML&layout=compact" />
 </p>
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=raesnow&title=Repositories,Commits,Followers,Issues,PullRequest,Stars&theme=onedark&no-bg=true" />
-</p>
